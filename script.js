@@ -26,7 +26,7 @@ function addNewItems(name, quantity, price) {
   itemPrice.push(price);
 }
 
-addNewItems("Dresser", 10, 125);
+addNewItems("Dresser", 0, 125);
 //4 Needed to see if addNewItems worked so put displayItems below...
 displayItems();
 
